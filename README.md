@@ -71,7 +71,8 @@ A simple UI layout built for a medical diagnosis project idea.
 
 ## 📬 Connect With Me  
 📧 **Email:** devakisr30@gmail.com  
-💼 **LinkedIn:** (Add when created — I can help create one)
+💼 **LinkedIn:** www.linkedin.com/in/devaki-s-3aa435280
+
 
 ---
 
