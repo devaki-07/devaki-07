@@ -3,8 +3,9 @@
 <h3 align="center">Aspiring Software Developer | Java • JavaScript • SQL</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/EZpXe3G5vtcAAAAC/monkey-typing.gif" width="260px">
+  <img src="https://media.tenor.com/7Ap6ZpUYT0UAAAAC/typing-monkey.gif" width="260px">
 </p>
+
 
 
 ---
