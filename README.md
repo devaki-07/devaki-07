@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Devaki</h1>
 <h3 align="center">Aspiring Software Developer | Java • JavaScript • SQL</h3>
 
-<p align="center">
-  <img src="https://media.tenor.com/7Ap6ZpUYT0UAAAAC/typing-monkey.gif" width="260px">
-</p>
+
+
+<p align="center"> <img src="https://media.tenor.com/7Ap6ZpUYT0UAAAAC/typing-monkey.gif" width="260px"> </p>
 
 
 
