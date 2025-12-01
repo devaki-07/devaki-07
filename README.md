@@ -4,10 +4,8 @@
 
 
 <p align="center">
-  <img src="https://share.google/images/U2TaXJ5JEYaysEV0e" width="250px">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="260px">
 </p>
-
-
 
 
 
