@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 About Me  
-🌱 Currently learning **Java, JavaScript, DBMS, and Backend Development**  
+🌱 Currently learning **Java, JavaScript and DBMS**  
 💻 Interested in **Full-Stack Development & Problem Solving**  
 🎯 Goal: To become a strong developer and crack top IT company placements  
 📚 Exploring **Aptitude, DSA, OOP, and mini-projects**  
@@ -34,7 +34,6 @@
 <p>
   <img src="https://img.shields.io/badge/Java-orange?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-lightgrey?logo=mysql&logoColor=black" />
 </p>
 
