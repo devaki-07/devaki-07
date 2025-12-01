@@ -44,12 +44,6 @@
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
 </p>
 
-### **Backend**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/JDBC-red?logo=java&logoColor=white" />
-</p>
 
 ### **Database**
 <p>
@@ -74,13 +68,6 @@ A simple UI layout built for a medical diagnosis project idea.
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=devaki-07&show_icons=true&theme=react" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaki-07&layout=compact&theme=react" />
-</p>
-
----
 
 ## 📬 Connect With Me  
 📧 **Email:** devakisr30@gmail.com  
