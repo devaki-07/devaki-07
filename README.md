@@ -3,7 +3,8 @@
 <h3 align="center">Aspiring Software Developer | Java • JavaScript • SQL</h3>
 
 <p align="center">
- <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250px">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350px">
+
 
 </p>
 
