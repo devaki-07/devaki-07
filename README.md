@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Devaki</h1>
 <h3 align="center">Aspiring Software Developer | Java • JavaScript • SQL</h3>
 
-
 <p align="center">
-  <img src="https://media.giphy.com/media/12kEV3P1AY7w36/giphy.gif" width="260px">
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="260px">
 </p>
 
 
 
 ---
+
 
 <!-- BADGES -->
 <p align="center">
